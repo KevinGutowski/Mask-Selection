@@ -20,7 +20,7 @@
   },
   "identifier" : "com.kevingutowski.maskselection",
   "version" : "1.0.0",
-  "appcast" : "{{Update URL}}",
+  "appcast" : "https://raw.githubusercontent.com/KevinGutowski/Mask-Selection/master/appcast.xml",
   "description" : "Get your selection masked here - one click is all you need.",
   "authorEmail" : "kskiviolin@gmail.com",
   "name" : "🎭 Mask Selection"
