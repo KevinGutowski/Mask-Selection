@@ -8,7 +8,8 @@
       "handlers" : {
         "run" : "onRun"
       },
-      "identifier" : "com.kevingutowski.maskselection.run"
+      "identifier" : "com.kevingutowski.maskselection.run",
+      "shortcut": "control m"
     }
   ],
   "menu" : {
@@ -19,7 +20,7 @@
     "isRoot": true
   },
   "identifier" : "com.kevingutowski.maskselection",
-  "version" : "1.0.0",
+  "version" : "1.0.1",
   "appcast" : "https://raw.githubusercontent.com/KevinGutowski/Mask-Selection/master/appcast.xml",
   "description" : "Get your selection masked here - one click is all you need.",
   "authorEmail" : "kskiviolin@gmail.com",
