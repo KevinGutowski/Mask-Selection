@@ -1,5 +1,5 @@
 # 🎭 Mask Selection
-A Sketch plugin to easily mask selected layers with one click.
+A Sketch plugin to easily mask selected layers with one click. Works with Sketch 52.1 and above.
 
 ![](https://media.giphy.com/media/iFIAUFiotF9utIUIT5/giphy.gif)
 
