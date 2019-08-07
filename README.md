@@ -1,4 +1,4 @@
-# Mask-Selection
+# 🎭 Mask Selection
 A Sketch plugin to easily mask selected layers with one click.
 
 ![](https://media.giphy.com/media/iFIAUFiotF9utIUIT5/giphy.gif)
