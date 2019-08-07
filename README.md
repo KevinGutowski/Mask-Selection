@@ -1,2 +1,2 @@
 # Mask-Selection
-A Sketch plugin to easily mask the selected layers.
+A Sketch plugin to easily mask selected layers.
