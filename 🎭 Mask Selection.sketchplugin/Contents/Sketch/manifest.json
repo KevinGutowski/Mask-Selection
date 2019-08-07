@@ -1,0 +1,27 @@
+{
+  "author" : "Kevin Gutowski",
+  "icon": "icon.png",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "🎭 Mask Selection",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.kevingutowski.maskselection.run"
+    }
+  ],
+  "menu" : {
+    "title" : "🎭 Mask Selection",
+    "items" : [
+      "com.kevingutowski.maskselection.run",
+    ],
+    "isRoot": true
+  },
+  "identifier" : "com.kevingutowski.maskselection",
+  "version" : "1.0.0",
+  "appcast" : "{{Update URL}}",
+  "description" : "Get your selection masked here - one click is all you need.",
+  "authorEmail" : "kskiviolin@gmail.com",
+  "name" : "🎭 Mask Selection"
+}
