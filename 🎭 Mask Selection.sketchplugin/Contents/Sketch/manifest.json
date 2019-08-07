@@ -20,7 +20,7 @@
     "isRoot": true
   },
   "identifier" : "com.kevingutowski.maskselection",
-  "version" : "1.0.1",
+  "version" : "1.0.2",
   "appcast" : "https://raw.githubusercontent.com/KevinGutowski/Mask-Selection/master/appcast.xml",
   "description" : "Get your selection masked here - one click is all you need.",
   "authorEmail" : "kskiviolin@gmail.com",
